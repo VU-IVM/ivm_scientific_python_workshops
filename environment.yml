@@ -1,4 +1,4 @@
-name: example-environment
+name: ivm_python_workshop
 channels:
   - conda-forge
 dependencies:
@@ -9,3 +9,7 @@ dependencies:
   - cartopy
   - netCDF4
   - scipy
+  - rasterio
+  - geopandas
+  - shapely
+  - pyproj
