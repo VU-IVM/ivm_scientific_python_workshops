@@ -1,6 +1,6 @@
-# Python_xarray_tutorial
+# ivm_scientific_python_workshops
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/semvijverberg/Python_xarray_tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DirkEilander/ivm_scientific_python_workshops/master)
 
 
-https://mybinder.org/v2/gh/semvijverberg/Python_xarray_tutorial/master
+# credits
